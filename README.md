@@ -1,5 +1,5 @@
 
-## 🌐 About Me:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizqinurandiputra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rizqinurandiputra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thecaracter) 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE0NjZmYjYzMWJkOTk4ZDRlZDFhODAzNDViZGE2NTUyM2VlNDFmZiZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif)
 # 💻 Tech Stack:
